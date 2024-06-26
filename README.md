@@ -12,10 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AtharvaNawathe&theme=monokai&hide_border=false)<br/>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtharvaNawathe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaNawathe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=AtharvaNawathe&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=AtharvaNawathe&icon=5&color=2)](https://visitcount.itsvg.in)
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
