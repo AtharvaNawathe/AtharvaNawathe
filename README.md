@@ -2,7 +2,7 @@
 👋 Hello, I'm Atharva!<br>I am a passionate DevOps Engineer at Innovapptive, <br>where I specialize in Continuous Integration and Continuous Delivery (CI/CD). My goal is to streamline and automate processes to ensure efficient and reliable software delivery.
 
 
-## 🌐 Socials:
+## 📫 Let's Connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvanawathe) 
 
 # 💻 Tech Stack:
