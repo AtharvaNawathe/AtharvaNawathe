@@ -15,6 +15,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaNawathe&radius=16&theme=vue&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/AtharvaNawathe/AtharvaNawathe/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
