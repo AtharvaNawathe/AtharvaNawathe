@@ -15,7 +15,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaNawathe&radius=16&theme=vue&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
-## 📫 Let's Connect!:
+## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvanawathe) 
 ###
 
